@@ -1,0 +1,15 @@
+name = "Harry"
+
+print(len(name))
+print(name.endswith("y"))
+print(name.startswith("h"))
+print(name.capitalize())
+print(name.upper()) 
+print(name.lower())
+print(name[0:3])    
+print(name[1:4])
+print(name.replace("r", "p"))
+print(name.replace("H","T"))
+print(name.find("r"))   
+print(name.find("a"))   
+print(name.index("H"))   
