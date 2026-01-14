@@ -53,4 +53,3 @@ def goodDay(name, ending):
 
 goodDay("Tushar",  "Thank You")
 goodDay("Pragya", "Thank You")
-
