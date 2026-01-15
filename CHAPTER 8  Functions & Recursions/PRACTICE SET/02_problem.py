@@ -1,0 +1,12 @@
+# 2. Write a python program using function to convert Celsius to Fahrenheit.
+
+def f_to_(f):
+  return  5*(f-32)/9
+
+f = int(input("Enter temperature in f :"))
+c = f_to_(f)
+print(f"{round(c , 2)}°c")
+
+
+
+
